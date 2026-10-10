@@ -1,0 +1,7 @@
+.env
+.env.example
+.env.local
+contact.json
+node_modules
+dist
+dist-electron

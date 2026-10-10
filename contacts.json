@@ -1,0 +1,81 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Omi",
+      "aliases": ["omi"],
+      "phone": "9264452577",
+      "whatsapp": "9264452577"
+    },
+    {
+      "id": "2",
+      "name": "Pihu",
+      "aliases": ["pihu"],
+      "phone": "8252672314",
+      "whatsapp": "8252672314"
+    },
+    {
+      "id": "3",
+      "name": "Rohit",
+      "aliases": ["rohit"],
+      "phone": "7295811079",
+      "whatsapp": "7295811079"
+    },
+    {
+      "id": "4",
+      "name": "Sunny",
+      "aliases": ["sunny"],
+      "phone": "7633976488",
+      "whatsapp": "7633976488"
+    },
+    {
+      "id": "5",
+      "name": "Dadaji",
+      "aliases": ["dadaji"],
+      "phone": "7070666026",
+      "whatsapp": "7070666026"
+    },
+    {
+      "id": "6",
+      "name": "Ayush",
+      "aliases": ["ayush"],
+      "phone": "8409248539",
+      "whatsapp": "8409248539"
+    },
+    {
+      "id": "7",
+      "name": "Ayan",
+      "aliases": ["ayan"],
+      "phone": "8935860995",
+      "whatsapp": "8935860995"
+    },
+    {
+      "id": "8",
+      "name": "Deepak",
+      "aliases": ["deepak", "depak"],
+      "phone": "9056319208",
+      "whatsapp": "9056319208"
+    },
+    {
+      "id": "9",
+      "name": "Anmol",
+      "aliases": ["anmol"],
+      "phone": "9942650601",
+      "whatsapp": "9942650601"
+    },
+    {
+      "id": "10",
+      "name": "Uncle",
+      "aliases": ["uncle"],
+      "phone": "6207159773",
+      "whatsapp": "6207159773"
+    },
+    {
+      "id": "11",
+      "name": "Airtel Customer Care",
+      "aliases": ["airtel customer care", "airtel"],
+      "phone": "198",
+      "whatsapp": "198"
+    }
+  ]
+}
