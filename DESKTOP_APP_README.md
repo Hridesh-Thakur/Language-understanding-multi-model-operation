@@ -94,3 +94,4 @@ placeholder icon is included so the config is valid out of the box.
   confirmation.
 - Recursive folder deletion requires `recursive: true` explicitly *and* still
   goes through the high-risk confirmation prompt.
+ 
